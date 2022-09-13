@@ -1,2 +1,8 @@
 # Debby Matt
-Web site profissional 
+PERFIL PROSISSIONAL
+👩‍🎓 Eng. da Computação
+👩‍💻 Iniciante em progração
+🎮 🧩 Gamer e Geek
+📚 Escritora de  trabalhos academicos
+
+
