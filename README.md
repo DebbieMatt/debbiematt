@@ -3,4 +3,5 @@ PERFIL PROSISSIONAL
 👩‍🎓 Eng. da Computação
 👩‍💻 Iniciante em progração
 🎮 🧩 Gamer e Geek
-📚 Escritora de  trabalhos academic
+📚 Escritora de  trabalhos academicos
+Desenvolvedora de Web Sites WordPress
