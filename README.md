@@ -2,7 +2,7 @@
 PERFIL PROSISSIONAL
 <br>
 👩‍🎓 Eng. da Computação
-👩‍💻 Iniciante em progração
+👩‍💻 Full Stack Developer
 🎮 🧩 Gamer e Geek
 📚 Escritora de  trabalhos academicos
 
