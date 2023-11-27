@@ -5,20 +5,40 @@ PERFIL PROSISSIONAL
 👩‍💻 Iniciante em progração
 🎮 🧩 Gamer e Geek
 📚 Escritora de  trabalhos academicos
-Desenvolvedora de Web Sites WordPress
 
+### Projetos back- end
+> Gosto de desenvolver programas back-end e embarcados. Atualmente, trabalho ativamente com robótica e DBA.
+
+#### <a href = "https://github.com/DebbieMatt/ALG_ESTRUT_DADOS_I"> 1. Algoritmos e Estrutura de Dados em C </a>
+#### <a href = "https://github.com/DebbieMatt/Trabalho-de-AED"> 2. Trabalho de Conclusão ( Caixa de Supermercado em C ) </a>
+#### <a href = "https://github.com/DebbieMatt/Test_Java"> 3. Programas em Java </a>
+#### <a href = "https://github.com/DebbieMatt/STUDY-ASSEMBLY"> 4. Fundamentos de Assembly </a>
+
+### Blog de Divulgação Cientifica
+>  Prezo bastante por áreas como segurança da informação, tanto que tenho um blog de divulgação cientifica, que falo especificamente sobre o assunto. Só clicar no botão abaixo: 
+
+<div align="center">
+<a href="https://debbymatt.tumblr.com/" target="_blank"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"target="_blank"></a>
+<a href="https://www.debbymatt.com" target="_blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"target="_blank"></a>
+</div>
+
+### Projetos de BI e Machine Learning
+> Como já, trabalhei com modelagem de dados em BI, tenho me aprofundando em conteúdos como Machine Learning, Algoritmos de Classificação, Processamento de Linguagem Natural e Analise de Sentimentos.
+
+#### <a href = "https://github.com/DebbieMatt/Data-Warehouse"> Projeto de um Data Warehouse (em desenvolvimento) </a>
+
+## Estatisticas 
 <div align="center">
   <a href="https://github.com/debbiematt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=debbiematt&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
 </div>
 
-##
+## Redes Socias
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=debbiematt&style=for-the-badge"/>
   <a href="https://www.instagram.com/deboramateusdec/"target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
   <a href="https://www.linkedin.com/in/d%C3%A9bora-mateus-camargo-a21031190" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
- <a href="https://www.debbymatt.com" target="_blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"target="_blank"></a>
   <a href="https://debbymatt.tumblr.com/" target="_blank"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"target="_blank"></a>
  
  ### Tecnologias que utilizo:
