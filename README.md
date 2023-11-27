@@ -40,6 +40,7 @@ PERFIL PROSISSIONAL
   <a href="https://www.instagram.com/deboramateusdec/"target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
   <a href="https://www.linkedin.com/in/d%C3%A9bora-mateus-camargo-a21031190" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
   <a href="https://debbymatt.tumblr.com/" target="_blank"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"target="_blank"></a>
+  <a href="https://www.debbymatt.com" target="_blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"target="_blank"></a>
  
  ### Tecnologias que utilizo:
  
