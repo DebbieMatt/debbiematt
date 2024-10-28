@@ -55,7 +55,7 @@ PERFIL PROSISSIONAL
     <img aling="center" alt="C++" src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
  </div>
 
- ### Tecnologias que utilizo:
+ ### Dominio sobre sistemas operacionais:
  
  <div style="display: inline_block" >
  <img aling="center" alt="Android" src= "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
