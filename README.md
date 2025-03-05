@@ -67,3 +67,4 @@ PERFIL PROSISSIONAL
  <img aling="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
  </div>
  
+> Se quiser adquirir os bagdes personalizados para adicionando ao seu repositório o customizando, acesse:[Markdown Badges](https://github.com/Ileriayo/markdown-badges/tree/master).
