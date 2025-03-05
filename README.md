@@ -66,5 +66,6 @@ PERFIL PROSISSIONAL
  <img aling="center" alt="Ubuntu" src= "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
  <img aling="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
  </div>
- 
-> Se quiser adquirir os bagdes personalizados para adicionando ao seu repositório o customizando, acesse:[Markdown Badges](https://github.com/Ileriayo/markdown-badges/tree/master).
+
+<a></a>
+> Se quiser adquirir os bagdes personalizados para adicionar ao seu repositório o customizando, acesse: [Markdown Badges](https://github.com/Ileriayo/markdown-badges/tree/master).
