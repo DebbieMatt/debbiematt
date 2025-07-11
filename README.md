@@ -61,7 +61,7 @@
  <div style="display: inline_block" >
  <img aling="center" alt="Android" src= "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
  <img aling="center" alt="Arch Linux" src= "https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
- <img aling="center" alt="Manjaro" src= "[https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">
+ <img aling="center" alt="Manjaro" src= "https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">
  <img aling="center" alt="Debian" src= "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
  <img aling="center" alt="Fedora" src= "https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white">
  <img aling="center" alt="Kali Linux" src= "https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
