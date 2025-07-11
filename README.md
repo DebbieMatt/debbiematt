@@ -5,7 +5,7 @@ PERFIL PROSISSIONAL
 👨‍💻 Full Stack and Embedded Systems Developer
 📐 Hardware design
 🎮 Gamer e Geek
-📚 Escritora de  trabalhos academicos
+📚 Escrita Acadêmica
 
 ### Projetos back- end
 > Gosto de desenvolver programas back-end e embarcados. Atualmente, trabalho ativamente com robótica e DBA.
