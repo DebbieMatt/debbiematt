@@ -9,8 +9,8 @@ PERFIL PROSISSIONAL
 ### Projetos back- end
 > Gosto de desenvolver programas back-end e embarcados. Atualmente, trabalho ativamente com robótica e DBA.
 
-#### <a href = "https://github.com/DebbieMatt/ALG_ESTRUT_DADOS_I"> 1. Algoritmos e Estrutura de Dados em C </a>
-#### <a href = "https://github.com/DebbieMatt/Trabalho-de-AED"> 2. Trabalho de Conclusão ( Caixa de Supermercado em C ) </a>
+#### <a href = "https://github.com/DebbieMatt/FPGA_VHDL"> 1. rojeto FPGA com Quartus II e VHDL </a>
+#### <a href = "https://github.com/DebbieMatt/Trabalgo-AED2"> 2. Trabalho de Conclusão ( Sistema de Gerenciamento de Clinica Médica) </a>
 #### <a href = "https://github.com/DebbieMatt/Test_Java"> 3. Programas em Java </a>
 #### <a href = "https://github.com/DebbieMatt/STUDY-ASSEMBLY"> 4. Fundamentos de Assembly </a>
 
