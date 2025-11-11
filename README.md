@@ -3,7 +3,7 @@
 <div align="center">
   
   [![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://debbymatt.tumblr.com/)
-  [![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.debbymatt.com)
+  [![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://debbymatt.wordpress.com/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A9bora-mateus-camargo-a21031190)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deboramateusdec/)
   
@@ -50,7 +50,7 @@ Mantenho conteúdo especializado sobre **Segurança da Informação** em minhas 
 <div align="center">
   
   [![Tumblr Blog](https://img.shields.io/badge/Blog-Tumblr-36465D?style=for-the-badge&logo=tumblr)](https://debbymatt.tumblr.com/)
-  [![WordPress Site](https://img.shields.io/badge/Site-WordPress-21759B?style=for-the-badge&logo=wordpress)](https://www.debbymatt.com)
+  [![WordPress Site](https://img.shields.io/badge/Site-WordPress-21759B?style=for-the-badge&logo=wordpress)](https://debbymatt.wordpress.com/)
 
 </div>
 
