@@ -5,7 +5,6 @@
   [![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://debbymatt.tumblr.com/)
   [![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://debbymatt.wordpress.com/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d%C3%A9bora-mateus-camargo-a21031190)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deboramateusdec/)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=debbiematt&style=for-the-badge)
 
